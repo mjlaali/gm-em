@@ -1,1 +1,1 @@
-# gm-em
+# Generative model evaluation metrics (GM-EM)
